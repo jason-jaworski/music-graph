@@ -2,184 +2,96 @@
   "profile": {
     "id": "synthetic-user-001",
     "name": "Prototype Collector",
-    "notes": "Synthetic dataset designed to contain meaningful gaps and hidden relationships for prototype validation."
+    "notes": "Fictional taste and ownership over a factual music neighbourhood. Designed for insight validation, not as a complete discography dataset."
   },
-  "seedArtists": [
-    "Big Black",
-    "Shellac",
-    "The Jesus Lizard",
-    "Fugazi",
-    "Minor Threat",
-    "Unwound",
-    "Slint",
-    "Drive Like Jehu",
-    "The Fall",
-    "Wire",
-    "This Heat",
-    "Daniel Johnston",
-    "Jonathan Richman",
-    "Half Japanese",
-    "Sunn O)))",
-    "Earth",
-    "Boris",
-    "Melvins",
-    "Swans",
-    "Godflesh",
-    "Sonic Youth",
-    "Glenn Branca",
-    "Can",
-    "Faust",
-    "Talk Talk"
+  "collection": [
+    {"artist":"Big Black","release":"Atomizer","year":1986,"own":true,"heard":true,"love":true,"rating":5,"listening":"high"},
+    {"artist":"Big Black","release":"Songs About Fucking","year":1987,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"high"},
+    {"artist":"Shellac","release":"At Action Park","year":1994,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"very_high"},
+    {"artist":"Shellac","release":"1000 Hurts","year":2000,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"high"},
+    {"artist":"The Jesus Lizard","release":"Goat","year":1991,"own":true,"heard":true,"love":true,"rating":5,"listening":"very_high"},
+    {"artist":"The Jesus Lizard","release":"Liar","year":1992,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"high"},
+    {"artist":"The Jesus Lizard","release":"Down","year":1994,"own":false,"heard":true,"love":false,"rating":4,"listening":"medium"},
+    {"artist":"Fugazi","release":"Repeater","year":1990,"own":true,"heard":true,"love":true,"rating":5,"listening":"high"},
+    {"artist":"Fugazi","release":"In on the Kill Taker","year":1993,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"high"},
+    {"artist":"Fugazi","release":"Red Medicine","year":1995,"own":false,"heard":true,"love":false,"rating":4,"listening":"medium"},
+    {"artist":"Fugazi","release":"The Argument","year":2001,"own":true,"heard":true,"love":true,"rating":5,"listening":"high"},
+    {"artist":"Minor Threat","release":"Complete Discography","year":1989,"own":true,"heard":true,"love":false,"rating":4,"listening":"medium"},
+    {"artist":"Unwound","release":"New Plastic Ideas","year":1994,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"high"},
+    {"artist":"Unwound","release":"Leaves Turn Inside You","year":2001,"own":true,"heard":true,"love":true,"rating":5,"listening":"high"},
+    {"artist":"Slint","release":"Tweez","year":1989,"own":false,"heard":true,"love":false,"rating":3.5,"listening":"low"},
+    {"artist":"Slint","release":"Spiderland","year":1991,"own":true,"heard":true,"love":true,"rating":5,"listening":"high"},
+    {"artist":"Drive Like Jehu","release":"Yank Crime","year":1994,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"high"},
+    {"artist":"Hüsker Dü","release":"Zen Arcade","year":1984,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"medium"},
+    {"artist":"Minutemen","release":"Double Nickels on the Dime","year":1984,"own":true,"heard":true,"love":true,"rating":5,"listening":"high"},
+    {"artist":"Mission of Burma","release":"Vs.","year":1982,"own":true,"heard":true,"love":false,"rating":4,"listening":"medium"},
+    {"artist":"The Fall","release":"Hex Enduction Hour","year":1982,"own":true,"heard":true,"love":true,"rating":5,"listening":"high"},
+    {"artist":"The Fall","release":"This Nation's Saving Grace","year":1985,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"high"},
+    {"artist":"The Fall","release":"The Wonderful and Frightening World of The Fall","year":1984,"own":false,"heard":true,"love":false,"rating":4,"listening":"medium"},
+    {"artist":"Wire","release":"Pink Flag","year":1977,"own":true,"heard":true,"love":true,"rating":5,"listening":"high"},
+    {"artist":"Wire","release":"Chairs Missing","year":1978,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"medium"},
+    {"artist":"Gang of Four","release":"Entertainment!","year":1979,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"high"},
+    {"artist":"This Heat","release":"Deceit","year":1981,"own":true,"heard":true,"love":true,"rating":5,"listening":"medium"},
+    {"artist":"Pere Ubu","release":"The Modern Dance","year":1978,"own":true,"heard":true,"love":false,"rating":4,"listening":"medium"},
+    {"artist":"Public Image Ltd","release":"Metal Box","year":1979,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"medium"},
+    {"artist":"Young Marble Giants","release":"Colossal Youth","year":1980,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"medium"},
+    {"artist":"Suicide","release":"Suicide","year":1977,"own":true,"heard":true,"love":true,"rating":5,"listening":"high"},
+    {"artist":"Daniel Johnston","release":"Hi, How Are You","year":1983,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"medium"},
+    {"artist":"Daniel Johnston","release":"1990","year":1990,"own":false,"heard":true,"love":true,"rating":4.5,"listening":"medium"},
+    {"artist":"Jonathan Richman and the Modern Lovers","release":"The Modern Lovers","year":1976,"own":true,"heard":true,"love":true,"rating":5,"listening":"high"},
+    {"artist":"Jonathan Richman and the Modern Lovers","release":"Rock 'n' Roll with the Modern Lovers","year":1977,"own":true,"heard":true,"love":false,"rating":4,"listening":"medium"},
+    {"artist":"Half Japanese","release":"1/2 Gentlemen/Not Beasts","year":1980,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"medium"},
+    {"artist":"Beat Happening","release":"Jamboree","year":1988,"own":false,"heard":true,"love":false,"rating":4,"listening":"medium"},
+    {"artist":"Sebadoh","release":"III","year":1991,"own":true,"heard":true,"love":false,"rating":4,"listening":"medium"},
+    {"artist":"Guided by Voices","release":"Bee Thousand","year":1994,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"high"},
+    {"artist":"Sunn O)))","release":"Black One","year":2005,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"medium"},
+    {"artist":"Sunn O)))","release":"Monoliths & Dimensions","year":2009,"own":true,"heard":true,"love":true,"rating":5,"listening":"high"},
+    {"artist":"Earth","release":"Earth 2: Special Low Frequency Version","year":1993,"own":false,"heard":true,"love":true,"rating":4.5,"listening":"medium"},
+    {"artist":"Earth","release":"The Bees Made Honey in the Lion's Skull","year":2008,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"high"},
+    {"artist":"Boris","release":"Pink","year":2005,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"high"},
+    {"artist":"Melvins","release":"Bullhead","year":1991,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"medium"},
+    {"artist":"Sleep","release":"Dopesmoker","year":2003,"own":true,"heard":true,"love":true,"rating":5,"listening":"medium"},
+    {"artist":"Om","release":"Conference of the Birds","year":2006,"own":false,"heard":true,"love":false,"rating":4,"listening":"medium"},
+    {"artist":"Swans","release":"Children of God","year":1987,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"medium"},
+    {"artist":"Swans","release":"Soundtracks for the Blind","year":1996,"own":true,"heard":true,"love":true,"rating":5,"listening":"high"},
+    {"artist":"Godflesh","release":"Streetcleaner","year":1989,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"high"},
+    {"artist":"Neurosis","release":"Through Silver in Blood","year":1996,"own":false,"heard":true,"love":false,"rating":4,"listening":"medium"},
+    {"artist":"Sonic Youth","release":"EVOL","year":1986,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"medium"},
+    {"artist":"Sonic Youth","release":"Daydream Nation","year":1988,"own":true,"heard":true,"love":true,"rating":5,"listening":"high"},
+    {"artist":"Glenn Branca","release":"The Ascension","year":1981,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"medium"},
+    {"artist":"Can","release":"Tago Mago","year":1971,"own":true,"heard":true,"love":true,"rating":5,"listening":"high"},
+    {"artist":"Can","release":"Ege Bamyasi","year":1972,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"high"},
+    {"artist":"Faust","release":"Faust IV","year":1973,"own":true,"heard":true,"love":false,"rating":4,"listening":"medium"},
+    {"artist":"Neu!","release":"Neu!","year":1972,"own":false,"heard":true,"love":true,"rating":4.5,"listening":"medium"},
+    {"artist":"Talk Talk","release":"The Colour of Spring","year":1986,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"medium"},
+    {"artist":"Talk Talk","release":"Spirit of Eden","year":1988,"own":true,"heard":true,"love":true,"rating":5,"listening":"very_high"},
+    {"artist":"Talk Talk","release":"Laughing Stock","year":1991,"own":true,"heard":true,"love":true,"rating":5,"listening":"high"},
+    {"artist":"Bark Psychosis","release":"Hex","year":1994,"own":false,"heard":true,"love":true,"rating":4.5,"listening":"medium"},
+    {"artist":"Brian Eno","release":"Another Green World","year":1975,"own":true,"heard":true,"love":true,"rating":4.5,"listening":"medium"},
+    {"artist":"John Cale","release":"Paris 1919","year":1973,"own":true,"heard":true,"love":false,"rating":4,"listening":"medium"}
   ],
-  "relationships": [
-    {
-      "artist": "Big Black",
-      "release": "Atomizer",
-      "own": true,
-      "heard": true,
-      "love": true,
-      "rating": 5,
-      "listening": "high"
-    },
-    {
-      "artist": "Big Black",
-      "release": "Songs About Fucking",
-      "own": true,
-      "heard": true,
-      "love": true,
-      "rating": 4.5,
-      "listening": "high"
-    },
-    {
-      "artist": "The Jesus Lizard",
-      "release": "Goat",
-      "own": true,
-      "heard": true,
-      "love": true,
-      "rating": 5,
-      "listening": "high"
-    },
-    {
-      "artist": "The Jesus Lizard",
-      "release": "Liar",
-      "own": true,
-      "heard": true,
-      "love": true,
-      "rating": 4.5,
-      "listening": "high"
-    },
-    {
-      "artist": "Shellac",
-      "release": "At Action Park",
-      "own": true,
-      "heard": true,
-      "love": true,
-      "rating": 4.5,
-      "listening": "very_high"
-    },
-    {
-      "artist": "Fugazi",
-      "release": "Repeater",
-      "own": true,
-      "heard": true,
-      "love": true,
-      "rating": 5,
-      "listening": "high"
-    },
-    {
-      "artist": "Fugazi",
-      "release": "The Argument",
-      "own": true,
-      "heard": true,
-      "love": true,
-      "rating": 5,
-      "listening": "high"
-    },
-    {
-      "artist": "Minor Threat",
-      "release": "Complete Discography",
-      "own": true,
-      "heard": true,
-      "love": false,
-      "rating": 4,
-      "listening": "medium"
-    },
-    {
-      "artist": "Slint",
-      "release": "Spiderland",
-      "own": true,
-      "heard": true,
-      "love": true,
-      "rating": 5,
-      "listening": "high"
-    },
-    {
-      "artist": "The Fall",
-      "release": "Hex Enduction Hour",
-      "own": true,
-      "heard": true,
-      "love": true,
-      "rating": 5,
-      "listening": "high"
-    },
-    {
-      "artist": "Daniel Johnston",
-      "release": "Hi, How Are You",
-      "own": true,
-      "heard": true,
-      "love": true,
-      "rating": 4.5,
-      "listening": "medium"
-    },
-    {
-      "artist": "Sunn O)))",
-      "release": "Black One",
-      "own": true,
-      "heard": true,
-      "love": true,
-      "rating": 4.5,
-      "listening": "medium"
-    },
-    {
-      "artist": "Earth",
-      "release": "The Bees Made Honey in the Lion's Skull",
-      "own": true,
-      "heard": true,
-      "love": true,
-      "rating": 4.5,
-      "listening": "high"
-    },
-    {
-      "artist": "Talk Talk",
-      "release": "Spirit of Eden",
-      "own": true,
-      "heard": true,
-      "love": true,
-      "rating": 5,
-      "listening": "high"
-    }
+  "deliberate_gaps": [
+    {"artist":"Scratch Acid","release":"The Greatest Gift","heard":false,"own":false,"story":"jesus-lizard-prehistory","reason":"David Yow and David Wm. Sims connect The Jesus Lizard back to Scratch Acid."},
+    {"artist":"Rites of Spring","release":"Rites of Spring","heard":false,"own":false,"story":"dischord-gap","reason":"A major adjacent branch from a strong Fugazi/Minor Threat/Dischord cluster."},
+    {"artist":"Embrace","release":"Embrace","heard":false,"own":false,"story":"dischord-gap","reason":"Ian MacKaye branch between Minor Threat and Fugazi."},
+    {"artist":"Mark Hollis","release":"Mark Hollis","heard":false,"own":false,"story":"talk-talk-branch","reason":"Obvious but high-value solo continuation from very strong late Talk Talk signals."},
+    {"artist":"The Pop Group","release":"Y","heard":false,"own":false,"story":"post-punk-blind-spot","reason":"Conspicuous gap inside an otherwise dense adventurous UK post-punk cluster."},
+    {"artist":"The Raincoats","release":"The Raincoats","heard":false,"own":false,"story":"post-punk-blind-spot","reason":"Another important branch absent from a strong late-70s/early-80s UK post-punk cluster."},
+    {"artist":"Khanate","release":"Khanate","heard":false,"own":false,"story":"drone-branch","reason":"A darker branch adjacent to Sunn O))) and the collector's heavy experimental cluster."},
+    {"artist":"Rhys Chatham","release":"Die Donnergötter","heard":false,"own":false,"story":"guitar-minimalism","reason":"A useful bridge between Glenn Branca, guitar minimalism and later experimental rock."}
   ],
-  "deliberateGaps": [
-    {
-      "artist": "Scratch Acid",
-      "release": "The Greatest Gift",
-      "heard": false,
-      "own": false,
-      "reason": "Former band of David Yow and David Wm. Sims; strong bridge from The Jesus Lizard."
-    },
-    {
-      "artist": "Rites of Spring",
-      "release": "Rites of Spring",
-      "heard": false,
-      "own": false,
-      "reason": "Meaningful Dischord gap adjacent to Fugazi and Minor Threat."
-    },
-    {
-      "artist": "Mark Hollis",
-      "release": "Mark Hollis",
-      "heard": false,
-      "own": false,
-      "reason": "High-value branch from a strong love signal for Talk Talk."
-    }
+  "hidden_stories": [
+    {"id":"jesus-lizard-prehistory","target":"Scratch Acid","strength":"high"},
+    {"id":"dischord-gap","target":"Rites of Spring","strength":"high"},
+    {"id":"albini-thread","target":"Steve Albini recording/production network","strength":"high","note":"Requires verified contributor edges before use."},
+    {"id":"talk-talk-branch","target":"Mark Hollis","strength":"high"},
+    {"id":"post-punk-blind-spot","target":"The Pop Group / The Raincoats","strength":"medium"},
+    {"id":"drone-branch","target":"Khanate","strength":"medium"},
+    {"id":"guitar-minimalism","target":"Rhys Chatham","strength":"medium"}
+  ],
+  "weak_signals": [
+    {"artist":"Mission of Burma","reason":"Owned and liked, but evidence is not strong enough alone to drive a recommendation chain."},
+    {"artist":"Faust","reason":"Relevant stylistically but explicit affection is weaker than for Can."},
+    {"artist":"Neurosis","reason":"Heard and liked, but not owned or loved; should not outweigh stronger drone/metal signals."}
   ]
 }

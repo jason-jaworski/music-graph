@@ -1,0 +1,106 @@
+{
+  "artists": [
+    {
+      "id": "artist:jesus-lizard",
+      "name": "The Jesus Lizard",
+      "type": "group",
+      "external_ids": {}
+    }
+  ],
+  "release_groups": [
+    {
+      "id": "rg:goat",
+      "title": "Goat",
+      "primary_artist_id": "artist:jesus-lizard",
+      "type": "album",
+      "first_release_year": 1991,
+      "external_ids": {}
+    }
+  ],
+  "physical_releases": [
+    {
+      "id": "release:goat-example-pressing",
+      "release_group_id": "rg:goat",
+      "format": "vinyl",
+      "country": "US",
+      "year": 1991,
+      "label_id": "label:touch-and-go",
+      "catalogue_number": null,
+      "barcode": null,
+      "external_ids": {}
+    }
+  ],
+  "contributors": [
+    {
+      "id": "person:david-yow",
+      "name": "David Yow",
+      "external_ids": {}
+    }
+  ],
+  "labels": [
+    {
+      "id": "label:touch-and-go",
+      "name": "Touch and Go",
+      "external_ids": {}
+    }
+  ],
+  "tags": [
+    {
+      "id": "tag:noise-rock",
+      "name": "noise rock",
+      "type": "style"
+    }
+  ],
+  "edges": [
+    {
+      "from": "artist:jesus-lizard",
+      "to": "rg:goat",
+      "type": "primary_artist"
+    },
+    {
+      "from": "rg:goat",
+      "to": "label:touch-and-go",
+      "type": "released_by"
+    },
+    {
+      "from": "rg:goat",
+      "to": "person:david-yow",
+      "type": "contributed_to",
+      "role": "vocals"
+    },
+    {
+      "from": "rg:goat",
+      "to": "tag:noise-rock",
+      "type": "tagged_as"
+    }
+  ],
+  "user_release_state": [
+    {
+      "user_id": "synthetic-user-001",
+      "release_group_id": "rg:goat",
+      "heard": true,
+      "love": true,
+      "rating": 5,
+      "know_well": true,
+      "want_to_hear": false,
+      "want_on_vinyl": false,
+      "not_interested": false
+    }
+  ],
+  "ownership": [
+    {
+      "user_id": "synthetic-user-001",
+      "physical_release_id": "release:goat-example-pressing",
+      "owned": true,
+      "previously_owned": false
+    }
+  ],
+  "listening_evidence": [
+    {
+      "user_id": "synthetic-user-001",
+      "release_group_id": "rg:goat",
+      "source": "synthetic",
+      "listening_strength": "high"
+    }
+  ]
+}

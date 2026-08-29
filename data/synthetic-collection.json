@@ -1,0 +1,185 @@
+{
+  "profile": {
+    "id": "synthetic-user-001",
+    "name": "Prototype Collector",
+    "notes": "Synthetic dataset designed to contain meaningful gaps and hidden relationships for prototype validation."
+  },
+  "seedArtists": [
+    "Big Black",
+    "Shellac",
+    "The Jesus Lizard",
+    "Fugazi",
+    "Minor Threat",
+    "Unwound",
+    "Slint",
+    "Drive Like Jehu",
+    "The Fall",
+    "Wire",
+    "This Heat",
+    "Daniel Johnston",
+    "Jonathan Richman",
+    "Half Japanese",
+    "Sunn O)))",
+    "Earth",
+    "Boris",
+    "Melvins",
+    "Swans",
+    "Godflesh",
+    "Sonic Youth",
+    "Glenn Branca",
+    "Can",
+    "Faust",
+    "Talk Talk"
+  ],
+  "relationships": [
+    {
+      "artist": "Big Black",
+      "release": "Atomizer",
+      "own": true,
+      "heard": true,
+      "love": true,
+      "rating": 5,
+      "listening": "high"
+    },
+    {
+      "artist": "Big Black",
+      "release": "Songs About Fucking",
+      "own": true,
+      "heard": true,
+      "love": true,
+      "rating": 4.5,
+      "listening": "high"
+    },
+    {
+      "artist": "The Jesus Lizard",
+      "release": "Goat",
+      "own": true,
+      "heard": true,
+      "love": true,
+      "rating": 5,
+      "listening": "high"
+    },
+    {
+      "artist": "The Jesus Lizard",
+      "release": "Liar",
+      "own": true,
+      "heard": true,
+      "love": true,
+      "rating": 4.5,
+      "listening": "high"
+    },
+    {
+      "artist": "Shellac",
+      "release": "At Action Park",
+      "own": true,
+      "heard": true,
+      "love": true,
+      "rating": 4.5,
+      "listening": "very_high"
+    },
+    {
+      "artist": "Fugazi",
+      "release": "Repeater",
+      "own": true,
+      "heard": true,
+      "love": true,
+      "rating": 5,
+      "listening": "high"
+    },
+    {
+      "artist": "Fugazi",
+      "release": "The Argument",
+      "own": true,
+      "heard": true,
+      "love": true,
+      "rating": 5,
+      "listening": "high"
+    },
+    {
+      "artist": "Minor Threat",
+      "release": "Complete Discography",
+      "own": true,
+      "heard": true,
+      "love": false,
+      "rating": 4,
+      "listening": "medium"
+    },
+    {
+      "artist": "Slint",
+      "release": "Spiderland",
+      "own": true,
+      "heard": true,
+      "love": true,
+      "rating": 5,
+      "listening": "high"
+    },
+    {
+      "artist": "The Fall",
+      "release": "Hex Enduction Hour",
+      "own": true,
+      "heard": true,
+      "love": true,
+      "rating": 5,
+      "listening": "high"
+    },
+    {
+      "artist": "Daniel Johnston",
+      "release": "Hi, How Are You",
+      "own": true,
+      "heard": true,
+      "love": true,
+      "rating": 4.5,
+      "listening": "medium"
+    },
+    {
+      "artist": "Sunn O)))",
+      "release": "Black One",
+      "own": true,
+      "heard": true,
+      "love": true,
+      "rating": 4.5,
+      "listening": "medium"
+    },
+    {
+      "artist": "Earth",
+      "release": "The Bees Made Honey in the Lion's Skull",
+      "own": true,
+      "heard": true,
+      "love": true,
+      "rating": 4.5,
+      "listening": "high"
+    },
+    {
+      "artist": "Talk Talk",
+      "release": "Spirit of Eden",
+      "own": true,
+      "heard": true,
+      "love": true,
+      "rating": 5,
+      "listening": "high"
+    }
+  ],
+  "deliberateGaps": [
+    {
+      "artist": "Scratch Acid",
+      "release": "The Greatest Gift",
+      "heard": false,
+      "own": false,
+      "reason": "Former band of David Yow and David Wm. Sims; strong bridge from The Jesus Lizard."
+    },
+    {
+      "artist": "Rites of Spring",
+      "release": "Rites of Spring",
+      "heard": false,
+      "own": false,
+      "reason": "Meaningful Dischord gap adjacent to Fugazi and Minor Threat."
+    },
+    {
+      "artist": "Mark Hollis",
+      "release": "Mark Hollis",
+      "heard": false,
+      "own": false,
+      "reason": "High-value branch from a strong love signal for Talk Talk."
+    }
+  ]
+}

@@ -1,0 +1,584 @@
+{
+  "updated_at": "2026-08-29T14:40:36.469Z",
+  "nodes": [
+    {
+      "id": "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03",
+      "name": "Talk Talk",
+      "type": "artist"
+    },
+    {
+      "id": "bbae1d2b-4c8e-4124-9d61-82edb92040bb",
+      "name": "Paul Webb",
+      "type": "artist"
+    },
+    {
+      "id": "8539cf66-e8e2-41a0-a984-77ba4dcffbc7",
+      "name": "Mark Hollis",
+      "type": "artist",
+      "artist_type": "Person",
+      "country": "GB",
+      "begin_year": "1955-01-04",
+      "end_year": "2019-02-25",
+      "begin_area": "Tottenham"
+    },
+    {
+      "id": "f7ccb0a1-8d4e-4391-b21e-22db2a30a614",
+      "name": "Simon Brenner",
+      "type": "artist"
+    },
+    {
+      "id": "50baacc2-d37c-46c4-8cfa-68d9dee48381",
+      "name": "Tim Friese‐Greene",
+      "type": "artist"
+    },
+    {
+      "id": "ef0581e6-6966-413b-899e-4022b4743440",
+      "name": "Lee Harris",
+      "type": "artist"
+    },
+    {
+      "id": "dfebd6c0-dae7-4cc8-a8e9-0dbaa382209f",
+      "name": "The Jesus Lizard",
+      "type": "artist",
+      "artist_type": "Group",
+      "country": "US",
+      "begin_year": "1987",
+      "end_year": null,
+      "begin_area": "Austin"
+    },
+    {
+      "id": "6a22c1ff-42c8-4c53-afa8-58f4766b9096",
+      "name": "Duane Denison",
+      "type": "artist"
+    },
+    {
+      "id": "3ba1e445-feaf-4713-ba50-ff077fffd544",
+      "name": "Mac McNeilly",
+      "type": "artist"
+    },
+    {
+      "id": "c6c8a98f-9cfb-4fad-a657-880245ff15d3",
+      "name": "David Sims",
+      "type": "artist"
+    },
+    {
+      "id": "81af2517-4481-4960-a337-213e1f8b5a61",
+      "name": "David Yow",
+      "type": "artist"
+    },
+    {
+      "id": "93ed63b4-5dc3-4f4d-9a74-b891e0354b76",
+      "name": "Jim Kimball",
+      "type": "artist"
+    },
+    {
+      "id": "c177bac4-92ca-4cc6-badb-ea7334f87d42",
+      "name": "The Jazzus Lizard",
+      "type": "artist"
+    },
+    {
+      "type": "artist"
+    },
+    {
+      "id": "4e99b3a5-654b-43ee-a9bf-c55c155c0495",
+      "name": "Flipper",
+      "type": "artist",
+      "artist_type": "Group",
+      "country": "US",
+      "begin_year": "1979",
+      "end_year": null,
+      "begin_area": "San Francisco"
+    },
+    {
+      "id": "11137c88-a9a2-4ffa-a97d-fb058c6d6ce2",
+      "name": "Pigface",
+      "type": "artist"
+    },
+    {
+      "id": "75687111-1585-4df2-83e6-ce52e7fa2bb0",
+      "name": "Scratch Acid",
+      "type": "artist",
+      "artist_type": "Group",
+      "country": "US",
+      "begin_year": "1982",
+      "end_year": "2011",
+      "begin_area": "Austin"
+    },
+    {
+      "id": "c47d9ef9-a4bd-4d4d-b894-658972f169fd",
+      "name": "Qui",
+      "type": "artist"
+    },
+    {
+      "id": "1c7a2235-5d08-403b-834a-3f00b7a7736c",
+      "name": "Steve Anderson",
+      "type": "artist"
+    },
+    {
+      "id": "70ab1b12-492b-4031-bccd-c7e402d88353",
+      "name": "Brett Bradford",
+      "type": "artist"
+    },
+    {
+      "id": "33b09380-db28-4c9c-9fdd-ab5c20049c61",
+      "name": "Rey Washam",
+      "type": "artist"
+    },
+    {
+      "id": "d0f09cd3-b12b-4b6c-84cf-3c52dd498998",
+      "name": "Ricky Williams",
+      "type": "artist"
+    },
+    {
+      "id": "5e8cc8b6-9d52-41fc-954c-a8c8446c6479",
+      "name": "Steve DePace",
+      "type": "artist"
+    },
+    {
+      "id": "dbf0b62e-0be9-485c-8309-2cab4880fde4",
+      "name": "Ted Falconi",
+      "type": "artist"
+    },
+    {
+      "id": "dee442c2-ffd3-4cd4-9d50-e1524950bb21",
+      "name": "Bruce Loose",
+      "type": "artist"
+    },
+    {
+      "id": "ca64f409-b22f-47b8-8f0c-bf1829032dd1",
+      "name": "Will Shatter",
+      "type": "artist"
+    },
+    {
+      "id": "8288eb00-0512-486a-ae90-d663d0a7b9fc",
+      "name": "John Dougherty",
+      "type": "artist"
+    },
+    {
+      "id": "6b7b071f-1a48-428c-aed8-f7c6a3649f7d",
+      "name": "Bruno DeSmartass",
+      "type": "artist"
+    },
+    {
+      "id": "ac05e29f-0561-4445-bb26-5562d2389531",
+      "name": "Krist Novoselic",
+      "type": "artist"
+    },
+    {
+      "id": "10d3aabf-8450-401a-a9b0-71c170b6f22e",
+      "name": "Rachel Thoele",
+      "type": "artist"
+    },
+    {
+      "id": "70956922-83e8-4284-891d-7b005faa33c2",
+      "name": "The Reaction",
+      "type": "artist"
+    },
+    {
+      "id": "316bfa6d-834e-45e9-84a4-60add28b37f3",
+      "name": "Ed Hollis",
+      "type": "artist"
+    },
+    {
+      "id": "a7904fc1-8a64-38ef-8b8f-85a29b46b4a0",
+      "name": "Mark Hollis",
+      "type": "release_group",
+      "primary_type": "Album",
+      "first_release_date": "1998-02-02"
+    }
+  ],
+  "edges": [
+    {
+      "from": "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03",
+      "from_name": "Talk Talk",
+      "to": "bbae1d2b-4c8e-4124-9d61-82edb92040bb",
+      "to_name": "Paul Webb",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [
+        "original"
+      ],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03",
+      "from_name": "Talk Talk",
+      "to": "8539cf66-e8e2-41a0-a984-77ba4dcffbc7",
+      "to_name": "Mark Hollis",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [
+        "original"
+      ],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03",
+      "from_name": "Talk Talk",
+      "to": "f7ccb0a1-8d4e-4391-b21e-22db2a30a614",
+      "to_name": "Simon Brenner",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [
+        "original"
+      ],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03",
+      "from_name": "Talk Talk",
+      "to": "50baacc2-d37c-46c4-8cfa-68d9dee48381",
+      "to_name": "Tim Friese‐Greene",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03",
+      "from_name": "Talk Talk",
+      "to": "ef0581e6-6966-413b-899e-4022b4743440",
+      "to_name": "Lee Harris",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [
+        "original"
+      ],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "dfebd6c0-dae7-4cc8-a8e9-0dbaa382209f",
+      "from_name": "The Jesus Lizard",
+      "to": "6a22c1ff-42c8-4c53-afa8-58f4766b9096",
+      "to_name": "Duane Denison",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "dfebd6c0-dae7-4cc8-a8e9-0dbaa382209f",
+      "from_name": "The Jesus Lizard",
+      "to": "3ba1e445-feaf-4713-ba50-ff077fffd544",
+      "to_name": "Mac McNeilly",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "dfebd6c0-dae7-4cc8-a8e9-0dbaa382209f",
+      "from_name": "The Jesus Lizard",
+      "to": "c6c8a98f-9cfb-4fad-a657-880245ff15d3",
+      "to_name": "David Sims",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "dfebd6c0-dae7-4cc8-a8e9-0dbaa382209f",
+      "from_name": "The Jesus Lizard",
+      "to": "81af2517-4481-4960-a337-213e1f8b5a61",
+      "to_name": "David Yow",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "dfebd6c0-dae7-4cc8-a8e9-0dbaa382209f",
+      "from_name": "The Jesus Lizard",
+      "to": "93ed63b4-5dc3-4f4d-9a74-b891e0354b76",
+      "to_name": "Jim Kimball",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "dfebd6c0-dae7-4cc8-a8e9-0dbaa382209f",
+      "from_name": "The Jesus Lizard",
+      "to": "c177bac4-92ca-4cc6-badb-ea7334f87d42",
+      "to_name": "The Jazzus Lizard",
+      "type": "tribute",
+      "direction": "backward",
+      "attributes": [],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "81af2517-4481-4960-a337-213e1f8b5a61",
+      "from_name": "David Yow",
+      "to": "4e99b3a5-654b-43ee-a9bf-c55c155c0495",
+      "to_name": "Flipper",
+      "type": "member_of_band",
+      "direction": "forward",
+      "attributes": [
+        "lead vocals"
+      ],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "81af2517-4481-4960-a337-213e1f8b5a61",
+      "from_name": "David Yow",
+      "to": "11137c88-a9a2-4ffa-a97d-fb058c6d6ce2",
+      "to_name": "Pigface",
+      "type": "member_of_band",
+      "direction": "forward",
+      "attributes": [
+        "additional"
+      ],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "81af2517-4481-4960-a337-213e1f8b5a61",
+      "from_name": "David Yow",
+      "to": "dfebd6c0-dae7-4cc8-a8e9-0dbaa382209f",
+      "to_name": "The Jesus Lizard",
+      "type": "member_of_band",
+      "direction": "forward",
+      "attributes": [],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "81af2517-4481-4960-a337-213e1f8b5a61",
+      "from_name": "David Yow",
+      "to": "75687111-1585-4df2-83e6-ce52e7fa2bb0",
+      "to_name": "Scratch Acid",
+      "type": "member_of_band",
+      "direction": "forward",
+      "attributes": [],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "81af2517-4481-4960-a337-213e1f8b5a61",
+      "from_name": "David Yow",
+      "to": "c47d9ef9-a4bd-4d4d-b894-658972f169fd",
+      "to_name": "Qui",
+      "type": "member_of_band",
+      "direction": "forward",
+      "attributes": [],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "75687111-1585-4df2-83e6-ce52e7fa2bb0",
+      "from_name": "Scratch Acid",
+      "to": "1c7a2235-5d08-403b-834a-3f00b7a7736c",
+      "to_name": "Steve Anderson",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [
+        "additional"
+      ],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "75687111-1585-4df2-83e6-ce52e7fa2bb0",
+      "from_name": "Scratch Acid",
+      "to": "70ab1b12-492b-4031-bccd-c7e402d88353",
+      "to_name": "Brett Bradford",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "75687111-1585-4df2-83e6-ce52e7fa2bb0",
+      "from_name": "Scratch Acid",
+      "to": "c6c8a98f-9cfb-4fad-a657-880245ff15d3",
+      "to_name": "David Sims",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "75687111-1585-4df2-83e6-ce52e7fa2bb0",
+      "from_name": "Scratch Acid",
+      "to": "33b09380-db28-4c9c-9fdd-ab5c20049c61",
+      "to_name": "Rey Washam",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "75687111-1585-4df2-83e6-ce52e7fa2bb0",
+      "from_name": "Scratch Acid",
+      "to": "81af2517-4481-4960-a337-213e1f8b5a61",
+      "to_name": "David Yow",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "4e99b3a5-654b-43ee-a9bf-c55c155c0495",
+      "from_name": "Flipper",
+      "to": "d0f09cd3-b12b-4b6c-84cf-3c52dd498998",
+      "to_name": "Ricky Williams",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "4e99b3a5-654b-43ee-a9bf-c55c155c0495",
+      "from_name": "Flipper",
+      "to": "5e8cc8b6-9d52-41fc-954c-a8c8446c6479",
+      "to_name": "Steve DePace",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [
+        "membranophone",
+        "original"
+      ],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "4e99b3a5-654b-43ee-a9bf-c55c155c0495",
+      "from_name": "Flipper",
+      "to": "dbf0b62e-0be9-485c-8309-2cab4880fde4",
+      "to_name": "Ted Falconi",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "4e99b3a5-654b-43ee-a9bf-c55c155c0495",
+      "from_name": "Flipper",
+      "to": "dee442c2-ffd3-4cd4-9d50-e1524950bb21",
+      "to_name": "Bruce Loose",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [
+        "lead vocals"
+      ],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "4e99b3a5-654b-43ee-a9bf-c55c155c0495",
+      "from_name": "Flipper",
+      "to": "ca64f409-b22f-47b8-8f0c-bf1829032dd1",
+      "to_name": "Will Shatter",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [
+        "bass guitar",
+        "lead vocals",
+        "original"
+      ],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "4e99b3a5-654b-43ee-a9bf-c55c155c0495",
+      "from_name": "Flipper",
+      "to": "8288eb00-0512-486a-ae90-d663d0a7b9fc",
+      "to_name": "John Dougherty",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [
+        "bass guitar"
+      ],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "4e99b3a5-654b-43ee-a9bf-c55c155c0495",
+      "from_name": "Flipper",
+      "to": "6b7b071f-1a48-428c-aed8-f7c6a3649f7d",
+      "to_name": "Bruno DeSmartass",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [
+        "bass guitar"
+      ],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "4e99b3a5-654b-43ee-a9bf-c55c155c0495",
+      "from_name": "Flipper",
+      "to": "ac05e29f-0561-4445-bb26-5562d2389531",
+      "to_name": "Krist Novoselic",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [
+        "bass guitar"
+      ],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "4e99b3a5-654b-43ee-a9bf-c55c155c0495",
+      "from_name": "Flipper",
+      "to": "10d3aabf-8450-401a-a9b0-71c170b6f22e",
+      "to_name": "Rachel Thoele",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [
+        "bass guitar"
+      ],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "4e99b3a5-654b-43ee-a9bf-c55c155c0495",
+      "from_name": "Flipper",
+      "to": "81af2517-4481-4960-a337-213e1f8b5a61",
+      "to_name": "David Yow",
+      "type": "member_of_band",
+      "direction": "backward",
+      "attributes": [
+        "lead vocals"
+      ],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "8539cf66-e8e2-41a0-a984-77ba4dcffbc7",
+      "from_name": "Mark Hollis",
+      "to": "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03",
+      "to_name": "Talk Talk",
+      "type": "member_of_band",
+      "direction": "forward",
+      "attributes": [
+        "original"
+      ],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "8539cf66-e8e2-41a0-a984-77ba4dcffbc7",
+      "from_name": "Mark Hollis",
+      "to": "70956922-83e8-4284-891d-7b005faa33c2",
+      "to_name": "The Reaction",
+      "type": "member_of_band",
+      "direction": "forward",
+      "attributes": [],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "8539cf66-e8e2-41a0-a984-77ba4dcffbc7",
+      "from_name": "Mark Hollis",
+      "to": "316bfa6d-834e-45e9-84a4-60add28b37f3",
+      "to_name": "Ed Hollis",
+      "type": "sibling",
+      "direction": "backward",
+      "attributes": [],
+      "source": "musicbrainz"
+    },
+    {
+      "from": "8539cf66-e8e2-41a0-a984-77ba4dcffbc7",
+      "from_name": "Mark Hollis",
+      "to": "a7904fc1-8a64-38ef-8b8f-85a29b46b4a0",
+      "to_name": "Mark Hollis",
+      "type": "artist_release_group",
+      "direction": "forward",
+      "source": "musicbrainz"
+    }
+  ]
+}
